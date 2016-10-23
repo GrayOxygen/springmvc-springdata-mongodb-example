@@ -10,8 +10,9 @@ logs
 # ignore Maven generated target folders
 target
  
-# ignore eclipse files
+# ignore eclipse or sts files
 .project
 .classpath
 .settings
 .metadata
+.springBeans
